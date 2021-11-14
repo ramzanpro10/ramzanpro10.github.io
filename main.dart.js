@@ -55174,7 +55174,7 @@ F.to.prototype={
 aQ(){return new F.Ie(C.n)}}
 F.Ie.prototype={
 P(a,b){var s=null,r=C.dY.i(0,400),q=t.xq,p=H.a([new O.hS(0,C.B,new P.u(0,0.75),15)],q),o=K.yC(10),n=t.bk,m=H.a([C.EA,C.o8],n),l=T.oe(s,10,s),k=L.bR("Rick and Morty",s,s,s,A.ed(s,s,C.k,s,s,s,s,s,s,s,s,25,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),j=t.E
-m=R.a70(!1,!0,M.hX(s,T.mS(H.a([l,new T.cC(C.Aa,k,s),M.hX(s,new U.nd(M.act(s,s,new L.qs("assets/rick_and_morty.jpg",s,s)),C.hU,s),s,s,300,s,s,s),new T.cC(new V.aN(35,30,35,20),L.bR("\u041f\u0440\u043e\u0435\u043a\u0442 \u043d\u0430 Flutter \u043e \u0412\u0441\u0435\u043b\u0435\u043d\u043d\u043e\u0439 \u043c\u0443\u043b\u044c\u0442\u0441\u0435\u0440\u0438\u0430\u043b\u0430 Rick and Morty",s,s,s,A.ed(s,s,C.dY.i(0,900),s,s,s,s,s,s,s,s,20,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s)],j),C.ad,C.bt,C.af),s,new S.es(s,s,s,o,p,new T.lf(C.hx,C.hy,C.bB,m,s,s),C.a8),436,new V.aN(40,40,40,40),s,s),s,!0,s,s,s,s,s,s,s,s,s,new F.a1Z(b),s)
+m=R.a70(!1,!0,M.hX(s,T.mS(H.a([l,new T.cC(C.Aa,k,s),M.hX(s,new U.nd(M.act(s,s,new L.qs("assets/rick_and_morty.jpg",s,s)),C.hU,s),s,s,270,s,s,s),new T.cC(new V.aN(35,30,35,24),L.bR("\u041f\u0440\u043e\u0435\u043a\u0442 \u043d\u0430 Flutter \u043e \u0412\u0441\u0435\u043b\u0435\u043d\u043d\u043e\u0439 \u043c\u0443\u043b\u044c\u0442\u0441\u0435\u0440\u0438\u0430\u043b\u0430 Rick and Morty",s,s,s,A.ed(s,s,C.dY.i(0,900),s,s,s,s,s,s,s,s,20,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s)],j),C.ad,C.bt,C.af),s,new S.es(s,s,s,o,p,new T.lf(C.hx,C.hy,C.bB,m,s,s),C.a8),456,new V.aN(40,40,40,40),s,s),s,!0,s,s,s,s,s,s,s,s,s,new F.a1Z(b),s)
 q=H.a([new O.hS(0,C.B,new P.u(0,0.75),15)],q)
 p=K.yC(10)
 n=H.a([C.EB,C.il],n)
