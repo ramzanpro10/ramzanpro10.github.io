@@ -4,7 +4,7 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "assets/AssetManifest.json": "7a4b77cb484ad3705cdd0032aab97fcb",
-"assets/assets/bmi.png": "1122db5931d1e00e24dfc290a3d8cd51",
+"assets/assets/bmi.png": "3ba31a1a7e281a663fea719ae9316b40",
 "assets/assets/logo.png": "c76d855d94abbf67dbbd598fc3a20280",
 "assets/assets/rick_and_morty.jpg": "d17e65d7b8f4cc818f0ad3aa1f560df1",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
@@ -19,9 +19,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "8e6b3698ade0d14aaf82e941640c5078",
-"/": "8e6b3698ade0d14aaf82e941640c5078",
-"main.dart.js": "8969d9911e714ad2d26999fc23cf586a",
+"index.html": "420d874bcc0cc58620da11a5ea220841",
+"/": "420d874bcc0cc58620da11a5ea220841",
+"main.dart.js": "4d32dadde9ec1213d46844eb82de2901",
 "manifest.json": "aafa6f08b67852bb6d49275cf17322a4",
 "version.json": "e98f782c856df2823e777eb0f7f326a5"
 };
